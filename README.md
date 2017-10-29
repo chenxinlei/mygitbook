@@ -1,8 +1,3 @@
-# mygitbook
-
-abcddedddfafsdfasdf
-
-12345566778
 
 
-
+这是github的内容
